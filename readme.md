@@ -1,6 +1,6 @@
 #### Edge : Meteorite Avoidance Game
 
-(Edge(playstore)){https://play.google.com/store/apps/details?id=com.han.edge}
+[Edge(playstore)]{https://play.google.com/store/apps/details?id=com.han.edge}
 
 This project is my first Unity engine game developed 2015.  
 I found this project while organizing the files and uploaded it to record.  
